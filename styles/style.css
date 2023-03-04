@@ -19,3 +19,12 @@
     background-color: gray;
     border-color: gray;
 }
+
+.subtitle{
+    padding: 10px;
+    margin: 20px;
+    margin-left: 328px;
+    margin-right: 328px;
+    background-color: green;
+    color: white;
+}
