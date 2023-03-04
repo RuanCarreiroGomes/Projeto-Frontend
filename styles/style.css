@@ -1,23 +1,23 @@
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     color: var(--bs-nav-pills-link-active-color);
-    background-color: green;
+    background-color: #1d571f;
 }
 
 .nav-link{
-    color: green;
+    color: #1d571f;
 }
 .nav-link:hover{
-    color: gray;
+    color: #eeeff1;
 }
 
 .btn-primary{
-    background-color: green;
-    border-color: green;
+    background-color: #1d571f;
+    border-color: #1d571f;
 }
 
 .btn-primary:hover{
-    background-color: gray;
-    border-color: gray;
+    background-color: #eeeff1;
+    border-color: #eeeff1;
 }
 
 .subtitle{
@@ -25,6 +25,15 @@
     margin: 20px;
     margin-left: 328px;
     margin-right: 328px;
-    background-color: green;
+    background-color: #1d571f;
     color: white;
+}
+
+.destaques{
+    border-top: 2px solid #1d571f;
+    background-color: #eeeff1;
+}
+.destaques h2{
+    margin: 10px;
+    color: #1d571f;
 }
