@@ -38,12 +38,12 @@
     color: #1d571f;
 }
 
-.text-muted{
+.image-section .text-muted{
     --bs-text-opacity: 1;
     color: #f8f9fa!important;
 }
 
-.fw-light{
+.image-section .fw-light{
     color: #f8f9fa!important;
 }
 
