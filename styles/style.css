@@ -37,3 +37,18 @@
     margin: 10px;
     color: #1d571f;
 }
+
+.text-muted{
+    --bs-text-opacity: 1;
+    color: #f8f9fa!important;
+}
+
+.fw-light{
+    color: #f8f9fa!important;
+}
+
+.image-section {
+    background-image: url("https://www.portalp2.com/images/noticias/1962/b0ce33b4ffb86736c9f9dab93b117fe1.jpeg");
+    background-size: cover; /* ajusta o tamanho da imagem para cobrir toda a seção */
+    background-position: center center; /* centraliza a imagem na seção */
+}
