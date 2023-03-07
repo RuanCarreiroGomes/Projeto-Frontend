@@ -5,12 +5,6 @@ Cor primária: #eeeff1 (Branco)
 Cor secundária: #1d571f5a (Verde)
 */
 
-
-.text-muted{
-    color: #eeeff1 ! important;
-    background-color: #1d571f5a;
-}
-
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     color: var(--bs-nav-pills-link-active-color);
     background-color: #1d571f;
