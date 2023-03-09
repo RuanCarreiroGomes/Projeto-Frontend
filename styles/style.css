@@ -1,3 +1,10 @@
+/**
+====================== PALETA DE CORES =================================
+
+Cor primária: #eeeff1 (Branco)
+Cor secundária: #1d571f5a (Verde)
+*/
+
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     color: var(--bs-nav-pills-link-active-color);
     background-color: #1d571f;
@@ -18,6 +25,17 @@
 .btn-primary:hover{
     background-color: #eeeff1;
     border-color: #eeeff1;
+}
+
+.welcome-page{
+    background-image: url(https://www.ifpi.edu.br/noticias/simposio-de-informatica-movimenta-alunos-e-servidores-do-campus-corrente/sinfcor-7/@@images/86802fb6-d0bf-4119-bc73-afe98e9ae0b7.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #eeeff1;
+}
+.welcome-page h1{
+    background-color: #1d571f5a;
+    color: #eeeff1;
 }
 
 .subtitle{
