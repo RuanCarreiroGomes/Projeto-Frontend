@@ -14,17 +14,19 @@ Cor secundária: #1d571f5a (Verde)
     color: #1d571f;
 }
 .nav-link:hover{
-    color: #eeeff1;
+    color: gray;
 }
-
+.nav-link.active:hover{
+    background-color: #123a13;
+}
 .btn-primary{
     background-color: #1d571f;
     border-color: #1d571f;
 }
 
 .btn-primary:hover{
-    background-color: #eeeff1;
-    border-color: #eeeff1;
+    background-color: #123a13;
+    border-color: #123a13;
 }
 
 .welcome-page{
