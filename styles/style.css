@@ -74,9 +74,9 @@ Cor secundária: #1d571f5a (Verde)
 }
 
 .paragrafo-sobre{
-    text-align: justify;
-}
-
-.p-just{
     margin-top: 2rem;
+    font-size: 20px;
+    text-align: justify;
+    padding-left: 2rem;
+    padding-right: 2rem;
 }
