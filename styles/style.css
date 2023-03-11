@@ -72,3 +72,11 @@ Cor secundária: #1d571f5a (Verde)
     background-size: cover; /* ajusta o tamanho da imagem para cobrir toda a seção */
     background-position: center center; /* centraliza a imagem na seção */
 }
+
+.paragrafo-sobre{
+    text-align: justify;
+}
+
+.p-just{
+    margin-top: 2rem;
+}
